@@ -1,0 +1,10 @@
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\obj\Debug\20231002_feladat_9.csproj.AssemblyReference.cache
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\obj\Debug\_20231002_feladat_9.Form1.resources
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\obj\Debug\_20231002_feladat_9.Properties.Resources.resources
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\obj\Debug\20231002_feladat_9.csproj.GenerateResource.cache
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\obj\Debug\20231002_feladat_9.csproj.CoreCompileInputs.cache
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\bin\Debug\20231002_feladat_9.exe.config
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\bin\Debug\20231002_feladat_9.exe
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\bin\Debug\20231002_feladat_9.pdb
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\obj\Debug\20231002_feladat_9.exe
+Z:\12.C\Asztali Alkalmazás\20231002\20231002_feladat\20231002_feladat_9\20231002_feladat_9\obj\Debug\20231002_feladat_9.pdb
