@@ -1,0 +1,7 @@
+Z:\Judit\Adatbázis\20221006\20221006\obj\Debug\20221006.csproj.AssemblyReference.cache
+Z:\Judit\Adatbázis\20221006\20221006\obj\Debug\20221006.csproj.CoreCompileInputs.cache
+Z:\Judit\Adatbázis\20221006\20221006\bin\Debug\20221006.exe.config
+Z:\Judit\Adatbázis\20221006\20221006\bin\Debug\20221006.exe
+Z:\Judit\Adatbázis\20221006\20221006\bin\Debug\20221006.pdb
+Z:\Judit\Adatbázis\20221006\20221006\obj\Debug\20221006.exe
+Z:\Judit\Adatbázis\20221006\20221006\obj\Debug\20221006.pdb

@@ -1,0 +1,53 @@
+-- 21.	Mennyi pizza fogyott átlagosan naponta?
+
+SELECT DATE(indopnt), AVG(db)
+FROM pizza_tetel
+INNER JOIN pizza_rendeles
+ON pizza_rendeles.razon=pizza_tetel.razon
+GROUP BY DATA(idopont);
+
+-- 22.	Hány pizzát rendeltek átlagosan egyszerre?
+
+SELECT  AVG(db)
+FROM pizza_tetel
+INNER JOIN pizza_rendeles
+ON pizza_rendeles.razon=pizza_tetel.razon
+GROUP BY DATA(idopont);
+
+
+-- 23.	Hány házhoz szállítása volt az egyes futároknak?
+
+SELECT fnev, COUNT(pizza_rendeles.razon)
+FROM pizza_futar, pizza_rendeles
+WHERE fazon=pizza_rendeles.fazon
+GROUP BY fnev
+
+-- 24.	A fogyasztás alapján mi a pizzák népszerűségi sorrendje?
+
+SELECT pizza_pizza, SUM(db) as darab
+FROM pizza_tetel, pizza_pizza
+WHERE pizza_tetel.pazon=pizza_pizza.pazon
+GROUP BY pizza_pizza.pnev;
+ORDER BY darab DESC;
+
+-- 25.	A rendelések összértéke alapján mi a vevők sorrendje?
+
+
+
+
+
+-- 26.	Melyik a legdrágább pizza?
+
+
+-- 27.	Ki szállította házhoz a legtöbb pizzát?
+
+
+-- 28.	Ki ette a legtöbb pizzát?
+
+
+-- 29.	Melyik nap fogyott a legtöbb pizza?
+
+
+-- 30.	Melyik nap fogyott a legtöbb Hawaii pizza?
+
+

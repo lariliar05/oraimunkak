@@ -1,0 +1,60 @@
+-- 31.	Hány pizza fogyott a legforgalmasabb napon?
+
+SELECT SUM(pizza_tetel.db)
+FROM pizza_rendeles INNER JOIN pizza_tetel
+ON pizza_rendeles.razon = pizza_tetel.razon 
+GROUP BY DATE(pizza_rendeles.idopont)
+ORDER BY SUM(pizza_tetel.db) DESC LIMIT 1
+
+-- 32.	Mennyi volt a bevétel a legjobb napon?
+
+SELECT SUM(pizza_pizza.)
+FROM pizza_rendeles 
+INNER JOIN pizza_tetel
+INNER JOIN pizza_pizza
+ON pizza_rendeles.razon = pizza_tetel.razon 
+GROUP BY DATE(pizza_rendeles.idopont)
+ORDER BY SUM(pizza_tetel.db) DESC LIMIT 1
+
+
+-- 33.	Mi Szundi kedvenc pizzája?
+
+-------
+
+-- 34.	Kik rendeltek pizzát a nyitás napján?
+
+SELECT pizza_vevo.vnev
+FROM pizza_vevo
+INNER JOIN pizza_rendeles
+ON pizza_vevo.vazon = pizza_rendeles.vazonazon 
+GROUP BY DATE(izza_rendeles.idopont)
+HAVING(pizza_rendeles.idopont = (SELECT MIN(pizza_rendeles.idopont) FROM pizza_rendeles))
+ORDER BY SUM(pizza_tetel.db) DESC LIMIT 1
+
+-- 35.	Mely pizzák olcsóbbak a Capricciosa pizzánál?
+
+
+
+-- 36.	Mely pizzák drágábbak az átlagosnál?
+
+
+
+-- 37.	Mely pizza ára van legközelebb az átlagárhoz?
+
+
+
+
+-- 38.	Mely futárok mentek többet házhoz az átlagosnál?
+
+
+
+
+-- 39.	Kik rendeltek legalább háromszor annyi pizzát, mint egy átlagos vevő?
+
+
+
+
+-- 40.	Kik szállítottak házhoz legalább tízszer?
+
+
+

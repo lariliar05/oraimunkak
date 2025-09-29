@@ -1,0 +1,7 @@
+Z:\Judit\Adatbázis\20221013\20221020_Switch\bin\Debug\20221020_Switch.exe.config
+Z:\Judit\Adatbázis\20221013\20221020_Switch\bin\Debug\20221020_Switch.exe
+Z:\Judit\Adatbázis\20221013\20221020_Switch\bin\Debug\20221020_Switch.pdb
+Z:\Judit\Adatbázis\20221013\20221020_Switch\obj\Debug\20221020_Switch.csproj.AssemblyReference.cache
+Z:\Judit\Adatbázis\20221013\20221020_Switch\obj\Debug\20221020_Switch.csproj.CoreCompileInputs.cache
+Z:\Judit\Adatbázis\20221013\20221020_Switch\obj\Debug\20221020_Switch.exe
+Z:\Judit\Adatbázis\20221013\20221020_Switch\obj\Debug\20221020_Switch.pdb

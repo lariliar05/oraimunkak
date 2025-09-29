@@ -1,0 +1,86 @@
+-- Importálja a pizza.sql fájlt a saját adatbázisába! 
+-- Figyeljen arra, hogy a forrás karakterkészlete latin2!
+
+-- 1.	Hogy hívják az egyes pizzafutárokat?
+SELECT fnev
+FROM pizza_futar
+
+-- 2.	Milyen pizzák közül lehet rendelni, és mennyibe kerülnek?
+SELECT Pnev, par
+FROM 
+-- 3.	Mennyibe kerül átlagosan egy pizza?
+SELECT AVG(par)
+FROM pizza_pizza
+
+-- 4.	Mely pizzák olcsóbbak 1000 Ft-nál?
+SELECT Pnev
+FROM pizza_pizza where > 1000
+
+-- 5.	Ki szállította házhoz az első (egyes sorszámú) rendelést?
+SELECT fnev
+FROM pizza_futar, pizza-rend where pizza_futar.fazon = pizza_ rendeles.fazon
+WHERE end razon = 1
+
+
+-- 6.	Kik rendeltek pizzát délelőtt?
+SELECT vnev
+FROM pizza_vevo, Pizza_vevo where pizza_vevo. razon end hour(pizza.rendles)>12
+
+
+-- 7.	Milyen pizzákat evett Morgó?
+
+
+
+-- 8.	Ki szállított házhoz Tudornak?
+SELECT fnev
+FROM pizza_rendeles
+futar.fazon = rendeles.fazon 
+
+-- 9.	Az egyes rendelések alkalmával ki kinek szállított házhoz?
+
+SELECT fnev,vnev
+FROM pizza_futar, p_vevo, p_rendeles
+
+-- 10.	Mennyit költött pizzára Vidor?
+
+
+
+-- 11.	Hány alkalommal rendelt Sorrento pizzát Kuka?
+SELECT count.pizza_rendeles.razon
+
+
+
+-- 12.	Hány pizzát rebdelt Szende?
+SELECT
+WHERE
+
+
+
+-- 13.	Hányszor rendelt pizzát Hapci?
+
+
+
+
+-- 14.	Hány darab Hawaii pizza fogyott összesen?
+
+
+-- 15.	Mennyit költöttek pizzára az egyes vevők?
+
+
+-- 16.	Mennyit vettek az egyes vevők a különböző pizzákból?
+
+
+-- 17.	Ki hány pizzát szállított házhoz az egyes napokon?
+
+
+-- 18.	Ki hány pizzát rendelt az egyes napokon?
+
+
+-- 19.	Mennyi volt a bevétel az egyes napokon?
+
+---- 20.  Hány pizza fogyott naponta?
+
+
+
+
+
