@@ -1,0 +1,6 @@
+Z:\Judit\Asztali alkalmazás\20220905\bin\Release\20220905.exe.config
+Z:\Judit\Asztali alkalmazás\20220905\bin\Release\20220905.exe
+Z:\Judit\Asztali alkalmazás\20220905\bin\Release\20220905.pdb
+Z:\Judit\Asztali alkalmazás\20220905\obj\Release\20220905.csproj.CoreCompileInputs.cache
+Z:\Judit\Asztali alkalmazás\20220905\obj\Release\20220905.exe
+Z:\Judit\Asztali alkalmazás\20220905\obj\Release\20220905.pdb
