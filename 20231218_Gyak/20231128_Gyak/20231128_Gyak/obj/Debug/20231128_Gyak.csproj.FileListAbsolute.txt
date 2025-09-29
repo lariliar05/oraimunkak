@@ -1,0 +1,10 @@
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\bin\Debug\20231128_Gyak.exe.config
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\bin\Debug\20231128_Gyak.exe
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\bin\Debug\20231128_Gyak.pdb
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\obj\Debug\_20231128_Gyak.Form1.resources
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\obj\Debug\_20231128_Gyak.Properties.Resources.resources
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\obj\Debug\20231128_Gyak.csproj.GenerateResource.cache
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\obj\Debug\20231128_Gyak.csproj.CoreCompileInputs.cache
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\obj\Debug\20231128_Gyak.exe
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\obj\Debug\20231128_Gyak.pdb
+Z:\12.C\Asztali Alkalmazás\20231128_Gyakorlás\20231128_Gyak\20231128_Gyak\obj\Debug\20231128_Gyak.csproj.AssemblyReference.cache
