@@ -1,0 +1,6 @@
+D:\2023\Programozas_C#\2023_02_16\string_hasonlit\obj\Debug\string_hasonlit.csprojAssemblyReference.cache
+D:\2023\Programozas_C#\2023_02_16\string_hasonlit\bin\Debug\string_hasonlit.exe.config
+D:\2023\Programozas_C#\2023_02_16\string_hasonlit\bin\Debug\string_hasonlit.exe
+D:\2023\Programozas_C#\2023_02_16\string_hasonlit\bin\Debug\string_hasonlit.pdb
+D:\2023\Programozas_C#\2023_02_16\string_hasonlit\obj\Debug\string_hasonlit.exe
+D:\2023\Programozas_C#\2023_02_16\string_hasonlit\obj\Debug\string_hasonlit.pdb
