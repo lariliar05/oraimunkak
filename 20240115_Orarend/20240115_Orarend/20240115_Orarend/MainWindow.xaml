@@ -1,0 +1,75 @@
+﻿<Window x:Class="_20240115_Orarend.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_20240115_Orarend"
+        mc:Ignorable="d"
+        Title="Órarend" Height="500" Width="810">
+    <Grid>
+        <Grid.RowDefinitions>
+
+
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            
+
+        </Grid.RowDefinitions>
+
+
+        <Grid.ColumnDefinitions>
+
+
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="125"/>
+            <ColumnDefinition Width="125"/>
+            <ColumnDefinition Width="125"/>
+            <ColumnDefinition Width="125"/>
+            <ColumnDefinition Width="125"/>
+            <ColumnDefinition Width="70"/>
+
+
+        </Grid.ColumnDefinitions>
+        <!--0. sor-->
+        <Button Grid.Row="0" Grid.Column="0" Content="Órarend!" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="12"/>
+        <Button Grid.Row="0" Grid.Column="1" Content="Hétfő" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="0" Grid.Column="2" Content="Kedd" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="0" Grid.Column="3" Content="Szerda" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="0" Grid.Column="4" Content="Csütörtök" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="0" Grid.Column="5" Content="Péntek" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="0" Grid.Column="6" Content="Cs.Rend" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="12"/>
+        <!--1. sor-->
+        <Button Grid.Row="1" Grid.Column="0" Content="1." BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="20"/>
+        <Button Grid.Row="1" Grid.Column="1" Content="Tesi" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="1" Grid.Column="2" Content="Matek" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="1" Grid.Column="3" Content="Magyar ny." BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="1" Grid.Column="4" Content="Fizika" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="1" Grid.Column="5" Content="Tesi" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="1" Grid.Column="6" Content="8:00 - 8:45" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="10"/>
+        <!--2. sor-->
+        <Button Grid.Row="2" Grid.Column="0" Content="2." BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="20"/>
+        <Button Grid.Row="2" Grid.Column="1" Content="Matek" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="2" Grid.Column="2" Content="Info" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="2" Grid.Column="3" Content="Biológia" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="2" Grid.Column="4" Content="Tesi" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="2" Grid.Column="5" Content="Ofő" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="2" Grid.Column="6" Content="8:55 - 9:40" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="10"/>
+        <!--2. sor-->
+        <Button Grid.Row="3" Grid.Column="0" Content="3." BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="20"/>
+        <Button Grid.Row="3" Grid.Column="1" Content="Magyar i." BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="3" Grid.Column="2" Content="Ének" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="3" Grid.Column="3" Content="Biológia" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="3" Grid.Column="4" Content="Kémia" BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="3" Grid.Column="5" Content="Magyar i." BorderBrush="Black" BorderThickness="3" Background="NavajoWhite" FontStyle="Italic" FontWeight="Bold" FontSize="16"/>
+        <Button Grid.Row="3" Grid.Column="6" Content="9:50 - 10:35" BorderBrush="Black" BorderThickness="3" Background="AntiqueWhite" FontStyle="Italic" FontWeight="Bold" FontSize="10"/>
+
+
+    </Grid>
+</Window>
