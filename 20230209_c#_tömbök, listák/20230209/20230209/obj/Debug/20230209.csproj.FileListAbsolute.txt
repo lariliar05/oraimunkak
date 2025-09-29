@@ -1,0 +1,12 @@
+Z:\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.csproj.AssemblyReference.cache
+Z:\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.csproj.CoreCompileInputs.cache
+Z:\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\bin\Debug\20230209.exe.config
+Z:\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\bin\Debug\20230209.exe
+Z:\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\bin\Debug\20230209.pdb
+Z:\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.exe
+Z:\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.pdb
+C:\Users\Ricsi\Desktop\11.c Régi\11.c Régi\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.csproj.AssemblyReference.cache
+C:\Users\Ricsi\Desktop\11.c Régi\11.c Régi\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.exe.config
+C:\Users\Ricsi\Desktop\11.c Régi\11.c Régi\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.csproj.CoreCompileInputs.cache
+C:\Users\Ricsi\Desktop\11.c Régi\11.c Régi\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.exe
+C:\Users\Ricsi\Desktop\11.c Régi\11.c Régi\Judit\Asztali alkalmazás\20230209_c#_tömbök, listák\20230209\20230209\obj\Debug\20230209.pdb

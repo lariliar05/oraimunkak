@@ -1,0 +1,7 @@
+Z:\Judit\Asztali alkalmazás\20230126_gyakorló feladatok\20230126\20230126\bin\Debug\20230126.exe.config
+Z:\Judit\Asztali alkalmazás\20230126_gyakorló feladatok\20230126\20230126\bin\Debug\20230126.exe
+Z:\Judit\Asztali alkalmazás\20230126_gyakorló feladatok\20230126\20230126\bin\Debug\20230126.pdb
+Z:\Judit\Asztali alkalmazás\20230126_gyakorló feladatok\20230126\20230126\obj\Debug\20230126.csproj.AssemblyReference.cache
+Z:\Judit\Asztali alkalmazás\20230126_gyakorló feladatok\20230126\20230126\obj\Debug\20230126.csproj.CoreCompileInputs.cache
+Z:\Judit\Asztali alkalmazás\20230126_gyakorló feladatok\20230126\20230126\obj\Debug\20230126.exe
+Z:\Judit\Asztali alkalmazás\20230126_gyakorló feladatok\20230126\20230126\obj\Debug\20230126.pdb
