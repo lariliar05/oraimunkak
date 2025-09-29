@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="hu"
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="styles.css">
+<title>Fodor & Bodor fodrászat</title>
+</head>
+<body>
+    <div id="fejlec"></div>
+    <div id="menu">
+        <a href="index.html">Bemutatkozás</a>
+        <a href="arlista.html">Árlista</a>
+        <a href="bejelentkezes.html">Bejelntkezés</a>
+        <a href="kapcsolat.html">Kapcsolat</a>
+    </div>
+    <div id="tartalom">
+        <h1>Kapcsolat</h1>
+        <p class="kep_jobbra"></p>
+        <p><b>Fodor Viktória</b> női fodrász</p>
+        <p><b>Bodor Viktor</b> férfi fodrász</p>
+        <p>
+        <dl>
+            <dt>Elérhetőség:</dt>
+                Tel: +36 20 999 99 99<br>
+                E-mail: fodorbodor@fodraszat.hu<br>
+                Cím: 1000 Budapest, Fodor Bodor tér 25.
+            Bejelentkezés:
+                telefonon vagy az on-line felületünkön
+            Munkaidő:
+                a páros heteken délután: 13h – 22h<br>
+                a páratlan heteken délelőtt: 07h – 16h
+            Megközelíthetőség:
+                Az üzlet mind autóval, mind tömegközlekedési eszközökkel rendkívül könnyen elérhető.
+        </dl>        
+        </p>
+        
+    </div>
+</body>
+</html>
