@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <title>Űrlap</title>
+</head>
+<body>
+
+<p> <h1>Üdv</h1></p>
+
+<form>
+  <label for="Kernev">Keresztnév:</label><br>
+  <input type="text" id="Kernev" name="Kernev" value=""><br>
+  <br>
+  <input type="button" value="Üdv">
+</form> 
+
+<p id="result"></p>
+
+<script>
+function Udvozles()
+{
+
+    let nev = document.getElementById("Kernev").value;
+    if (nev != '')
+    {
+    document.getElementById("result").innerHTML = "Üdvözöllek " + nev + "!";
+    }
+    else
+    {
+    document.getElementById("result").style.color = "red"
+    document.getElementById("result").innerHTML = "Nem adtál meg nevet" + "!";
+    }
+
+    
+}
+
+document.querySelector("input[type='button']").onclick = Udvozles;
+
+
+</script>
+
+    
+</body>
+</html>

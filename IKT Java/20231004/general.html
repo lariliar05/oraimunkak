@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #kor{
+            height: 50px;
+            width: 50px;
+            background-color: rgb(132, 0, 255);
+            border-radius: 100%;
+        }
+    </style>
+</head>
+<body>
+    <button id="szam">szam</button>
+    <p id="eredmeny">eredmeny</p>
+    <p id="terulet">terület</p>
+    <p id="kor"></p>
+    <script>
+            document.querySelector("#szam").addEventListener("click", function(){
+                let a = Math.floor(Math.random()*51)
+                document.querySelector("#eredmeny").innerHTML ="A sugár: " + a;
+                let t = a*a*3.14
+                if (a==0) {
+                    alert("Nem kör")
+                }
+                else{
+                    document.querySelector("#terulet").innerHTML = "A területe: " + t;
+                }
+                document.querySelector("#kor").style.width = a+"px" ;
+                document.querySelector("#kor").style.height = a+"px" ;
+                
+                
+            })
+    </script>
+</body>
+</html>

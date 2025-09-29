@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dom</title>
+</head>
+<body>
+    <h1>DOM pelda</h1>
+    <button onclick="piros()">Piros</button>
+    <button onclick="kek()">Kék</button>
+    <p id="myinput">Elso bekezdes</p>
+    <p class="szam">1</p>
+    <p class="szam">2</p>
+    <p class="szam">3</p>
+    <p class="szam">4</p>
+    <p class="szam">5</p>
+    <script>
+        function piros(){
+            let p = document.getElementById("myinput")
+            p.style.color = "red"
+        }
+        function kek(){
+            let p = document.getElementById("myinput")
+            p.style.color = "lightblue"
+        }
+    </script>
+</body>
+</html>

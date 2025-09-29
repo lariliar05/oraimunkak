@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let egesz = 5
+        let tort = 1.2
+        const pi = 3.14
+        egesz = egesz+6
+        var c = 10
+        let szoveg = "alma"
+        let  f = true
+        let tomb =  ['alma','korte','szilva']
+        
+        let a = 5
+        let b = 6
+        let ter = a*b
+        document.write('A terulet: ', ter)
+
+        function kerulet(a,b){
+            let ker = 2*(a +b)
+            return ker
+        }
+
+        document.write('<br>')
+        document.write('A kerulet: ', kerulet(a,b))
+        document.write('<br>')
+
+        const autok = ['Ford','Audi','Mercedes']
+        for (let i = 0; i < autok.length; i++) {
+            document.write(autok[i], ' ')
+            
+        }
+        document.write('<br>')
+        let szemely = {vnev:'Kovacs', unev:'Laci', kor:18}
+        //szemely[vnev]
+        for (const key in szemely) {
+            document.write(szemely[key],' ')
+        }
+        document.write('<br>')
+        for (const v of Object.values(szemely)) {
+            document.write(v,' ')
+        }
+    </script>
+</body>
+</html>

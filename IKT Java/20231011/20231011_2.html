@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Számológép</title>
+
+    <p id="result" defer></p>
+
+</head>
+<body>
+    
+        <form>
+            <label for="szam1">Első szám:</label>
+            <br>
+            <input type="number" id="szam1" name="szam1">
+            <br>
+            <label for="szam2">Második szám:</label>
+            <br>
+            <input type="number" id="szam2" name="szam2"><br>
+            <input type="button" value="Összeadás">
+            
+            
+
+        </form>
+        <script>
+        function Osszead()
+        {
+            
+             let a = parseInt(document.getElementById("szam1").value)
+             let b = parseInt(document.getElementById("szam2").value)
+             document.getElementById("result").innerHTML= "Az Összeg:" + (a + b)
+             document.querySelector("input[type='button']").onclick = Összead;
+        }
+
+        </script>
+                
+</body>
+</html>
