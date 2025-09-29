@@ -1,0 +1,10 @@
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\bin\Debug\20230405.exe.config
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\bin\Debug\20230405.exe
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\bin\Debug\20230405.pdb
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\obj\Debug\20230405.csproj.AssemblyReference.cache
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\obj\Debug\_20230405.Form1.resources
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\obj\Debug\_20230405.Properties.Resources.resources
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\obj\Debug\20230405.csproj.GenerateResource.cache
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\obj\Debug\20230405.csproj.CoreCompileInputs.cache
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\obj\Debug\20230405.exe
+Z:\Judit\Asztali alkalmazás\20230405_Form\20230405\20230405\obj\Debug\20230405.pdb

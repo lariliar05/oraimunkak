@@ -1,0 +1,7 @@
+Z:\Judit\Asztali alkalmazás\20230330_lift\20230330_Lift\20230330_Lift\bin\Debug\20230330_Lift.exe.config
+Z:\Judit\Asztali alkalmazás\20230330_lift\20230330_Lift\20230330_Lift\bin\Debug\20230330_Lift.exe
+Z:\Judit\Asztali alkalmazás\20230330_lift\20230330_Lift\20230330_Lift\bin\Debug\20230330_Lift.pdb
+Z:\Judit\Asztali alkalmazás\20230330_lift\20230330_Lift\20230330_Lift\obj\Debug\20230330_Lift.csproj.AssemblyReference.cache
+Z:\Judit\Asztali alkalmazás\20230330_lift\20230330_Lift\20230330_Lift\obj\Debug\20230330_Lift.csproj.CoreCompileInputs.cache
+Z:\Judit\Asztali alkalmazás\20230330_lift\20230330_Lift\20230330_Lift\obj\Debug\20230330_Lift.exe
+Z:\Judit\Asztali alkalmazás\20230330_lift\20230330_Lift\20230330_Lift\obj\Debug\20230330_Lift.pdb
