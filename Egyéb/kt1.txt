@@ -1,0 +1,30 @@
+cím;szerzők;kiadás;kiadás dátuma;témák;isbn;kiad¢;
+VUK;Fekete István;1.;1965;regény, llat, ifj£s g;9789634867760;Móra Könyvkiadás
+Harry Potter és a Titkok Kamr ja;Janne Kathleen Rowling;1.;1998;Fantasy;9789636141479;Anonimus könyvek
+Egy ropi napl¢ja-A nagy kiruccan s;Jeff Kinney;9.;2014;Fikci¢s napl¢;9789633993507;Könyvmolyképző kiadó
+Geronimo Stilton-Az eltőnt kincs rejtélye;Geronimo Stilton Könyvnyvek;8.;2017;Fikciós napl¢;9789633693629;Alexandra kiadó
+Percy Jackson-A szörnyek tengere;rick Riordan;3.;2006;Görög Mitológia, Fantasy irodalom;9789633998489;Könyvmolyképző Kiadó KFT.
+Akkor szak¡tsunk;Leiner Laura;1.;2014;ifjusági irodalom;9786155653025;L&L kiadó
+Alkonyat;Stephenie Meyer;1.;2005;fantasy;9789639708952;Könyvmolyképző
+Bábel;Leiner Laura;1.;2016;ifjusági regény;9786155653056;L&L kiadó
+Ház a tó  mélyén;Josh Malerman;1.;2017;misztikus thriller;9789634700098;Fumax kiadó
+Hold;Stephenie Meyer;1.;2009;fantasy;9789632451558;Könyvmolyképző
+AZ;Stephen King;1.;1986;horror-regény;9789630784924;Európa kiadó
+Az autóversenyzés története;David Burgess-Wise;1.;2001;Műszaki, autó;963909059;Kőnyvmolyképző
+Száguldó cirkusz 2007-2008;Simon István;1.;2007;Műszaki, autó, sport;94456438456311;Könyvmolyképző
+A díjugrató lovas kiképzése;Zup n Péter;1.;2020;Sport;9789632914404;Bioenergetic Kiadó
+A kis herceg;Antoine de Saint-Exupory;1.;1943;Fantasy;9786156196057;Móra
+Elszakítva;Amira Stone;1.;2021;Fantasy,fiatal feln?tt;9789635613977;Könyvmolyképző
+Hat varj£;Leigh Bardugo;1.;2021;Fantasy,kitagadottak,fiatal feln?tt;9789635616763;Könyvmolyképző
+Bizalom;Kyle Scott;2.;2020;Dráma,sz¢rakoztat¢;9789635613502;Könyvmolyképző
+Lada Dracul-egy sőtét lélek;Kiersten White;2.;2020;fantasy,vámpírok,történelmi;9789634576990;Könyvmolyképző
+A hajnal tornya;Sarah J. Maas;3.;2018;fantasy,ifj£s gi;9789634575214;Könyvmolyképző
+Csontbrig d;Rejt? Jen?;4.;1967;bünőgyi regény,nyomoz s;	9632719344;	Albatrosz Könyvek
+Az elveszett cirkáló;Rejt? Jen?;2.;1966;kalandregény,ifj£s gi;963270088;Albatrosz Könyvek
+Robinson;Daniel Defoe;1.;1961;kalandregény;0;Móra
+Huckleberry Finn;Mark Twain;1.;1964;regény;0;Móra
+Dal a tűzpiros virágról;Linnankoski;1.;1957;regény;0963073983;	Európa
+Gazdagabb,bölcsebb;William Green;1.;2022;befektetés,pénzugy;	9786156088031;	A4C Books
+Profit vagy az élmény;Pataki G bor;1.;2022;	kriptovaluta,profit;	9786150143989;	Ambienta Kft.
+Babilon leggazdagabb embere;George S.Clason;	1.;	2021;	igretek,jv?;	9786155030956;	Bagolyv r trade KFT;
+ 
