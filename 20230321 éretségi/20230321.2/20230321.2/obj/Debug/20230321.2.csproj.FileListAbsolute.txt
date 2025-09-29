@@ -1,0 +1,6 @@
+Z:\ProgEl\20230321 éretségi\20230321.2\20230321.2\bin\Debug\20230321.2.exe.config
+Z:\ProgEl\20230321 éretségi\20230321.2\20230321.2\bin\Debug\20230321.2.exe
+Z:\ProgEl\20230321 éretségi\20230321.2\20230321.2\bin\Debug\20230321.2.pdb
+Z:\ProgEl\20230321 éretségi\20230321.2\20230321.2\obj\Debug\20230321.2.csproj.CoreCompileInputs.cache
+Z:\ProgEl\20230321 éretségi\20230321.2\20230321.2\obj\Debug\20230321.2.exe
+Z:\ProgEl\20230321 éretségi\20230321.2\20230321.2\obj\Debug\20230321.2.pdb

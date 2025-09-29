@@ -1,0 +1,10 @@
+Create DataBase Csoportcím
+Default Character set UTF-8
+Collate latin2_Hungarian_CI
+
+Create  Table Csoportcim(
+	Nev Varchar()
+	Nem Varchar()
+	Varos(int 4)
+	cím(szöveg)
+	tel()
