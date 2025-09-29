@@ -1,0 +1,10 @@
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\bin\Debug\20231010.exe.config
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\bin\Debug\20231010.exe
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\bin\Debug\20231010.pdb
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\obj\Debug\20231010.csproj.AssemblyReference.cache
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\obj\Debug\_20231010.Form1.resources
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\obj\Debug\_20231010.Properties.Resources.resources
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\obj\Debug\20231010.csproj.GenerateResource.cache
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\obj\Debug\20231010.csproj.CoreCompileInputs.cache
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\obj\Debug\20231010.exe
+Z:\12.C\Asztali Alkalmazás\20231010\20231010\20231010\obj\Debug\20231010.pdb

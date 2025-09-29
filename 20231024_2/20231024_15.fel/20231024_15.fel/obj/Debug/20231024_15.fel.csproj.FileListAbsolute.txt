@@ -1,0 +1,10 @@
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\obj\Debug\20231024_15.fel.csproj.AssemblyReference.cache
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\obj\Debug\_20231024_15.fel.Form1.resources
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\obj\Debug\_20231024_15.fel.Properties.Resources.resources
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\obj\Debug\20231024_15.fel.csproj.GenerateResource.cache
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\obj\Debug\20231024_15.fel.csproj.CoreCompileInputs.cache
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\bin\Debug\20231024_15.fel.exe.config
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\bin\Debug\20231024_15.fel.exe
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\bin\Debug\20231024_15.fel.pdb
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\obj\Debug\20231024_15.fel.exe
+Z:\12.C\Asztali Alkalmazás\20231024_2\20231024_15.fel\20231024_15.fel\obj\Debug\20231024_15.fel.pdb
